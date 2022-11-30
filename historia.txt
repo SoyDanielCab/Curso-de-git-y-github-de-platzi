@@ -3,3 +3,5 @@ Curso de git y github de platzi
 Miercoles 30 de noviembre 2022
 
 Hoy trabajamos desde la universidad en a hora muerta de 8am a 9am
+
+Ocurrio un problema con el archivo anterior y se tuvo que cambiar 
