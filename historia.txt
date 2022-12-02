@@ -1,6 +1,8 @@
 Esta es una prueba
 Curso de git y github de platzi
 Viernes 02 de Diciembre 2022
+12:51
 
-Hoy trabajamos desde la biblioteca de la universidad despues de las clases.
- 
+Hoy trabajamos despues de clases desde la biblioteca de la universidad.
+
+    
