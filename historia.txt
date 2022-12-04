@@ -1,8 +1,9 @@
 Esta es una prueba
 Curso de git y github de platzi
-Viernes 02 de Diciembre 2022
-12:51
+Domingo 04 de Diciembre 2022
+11:45
 
-Hoy trabajamos despues de clases desde la biblioteca de la universidad.
-
+Hoy trabajamos desde mi casa, voy a hacer un repaso rápido de las primeras clases 
+del curso de git para realizar anotaciones sobre los diferentes comandos que se pueden usar 
+dentro de la consola.
     
