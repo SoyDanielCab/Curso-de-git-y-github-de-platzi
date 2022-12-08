@@ -7,3 +7,8 @@ hay un evento sobre el día del mercadologo (o eso creo), así que hoy estarémo
 desde un poco antes de las 11:00 am hasta la 1:00 pm.
 
 Comenzamos a trabajar con ramas. (Esto está en la rama cabecera).
+
+Para cambiar entre una rama y otra, utilizamos el comando checkout y la rama a la que
+nos queremos mover.
+
+Ejemplo: git checkout cabecera.
