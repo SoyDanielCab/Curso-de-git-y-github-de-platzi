@@ -1,9 +1,8 @@
 Esta es una prueba
 Curso de git y github de platzi
-Domingo 04 de Diciembre 2022
-11:45
+Jueves 08 de Diciembre 2022
+10:57
 
-Hoy trabajamos desde mi casa, voy a hacer un repaso rápido de las primeras clases 
-del curso de git para realizar anotaciones sobre los diferentes comandos que se pueden usar 
-dentro de la consola.
-    
+Hoy trabajamos desde la bibliteca de la universidad, salimos un poco más temprano pues 
+hay un evento sobre el día del mercadologo (o eso creo), así que hoy estarémos trabajando
+desde un poco antes de las 11:00 am hasta la 1:00 pm    
