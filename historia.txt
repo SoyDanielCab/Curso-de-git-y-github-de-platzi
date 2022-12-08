@@ -1,8 +1,10 @@
 Esta es una prueba
 Curso de git y github de platzi
 Jueves 08 de Diciembre 2022
-10:57
+11:37
 
 Hoy trabajamos desde la bibliteca de la universidad, salimos un poco más temprano pues 
 hay un evento sobre el día del mercadologo (o eso creo), así que hoy estarémos trabajando
-desde un poco antes de las 11:00 am hasta la 1:00 pm    
+desde un poco antes de las 11:00 am hasta la 1:00 pm.
+
+Comenzamos a trabajar con ramas. (Esto está en la rama master).
