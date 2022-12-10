@@ -1,10 +1,10 @@
 Curso de git y github de platzi
-Jueves 08 de Diciembre 2022
-11:37
+Sábado 10 de Diciembre 2022
+12:47
 
-Hoy trabajamos desde la bibliteca de la universidad, salimos un poco más temprano pues 
-hay un evento sobre el día del mercadologo (o eso creo), así que hoy estarémos trabajando
-desde un poco antes de las 11:00 am hasta la 1:00 pm.
+Hoy estudiamos desde casa,un poco antes de que sea hora de ir hacía el trabajo, ya estamos estudiando
+sobre como es trabajar junto con github para poder enviar nuestros archivos a un repositorio
+remoto y poder editarlo desde cualquie otro de nuestros dispositivos.
 
 Comenzamos a trabajar con ramas. (Esto está en la rama Master).
 
