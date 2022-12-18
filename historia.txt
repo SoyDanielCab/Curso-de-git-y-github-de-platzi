@@ -1,6 +1,6 @@
 Curso de git y github de platzi
 Domingo 18 de Diciembre 2022
-01:10 Pm
+01:19 PM
 
 Hoy estamos trabajando desde casa, pero esta vez desde la PC de escritorio.
 Intenté realizar un push origin master hacia el repositorio de github pero 
@@ -13,6 +13,10 @@ solicitar el usuario y contraseña para hacer el push es cuando salía el error.
 
 Acabo de cambiar el origen de HTTPS a SSH y voy a hacer la primer prueba para 
 ver si de esta manera funciona.
+
+Efectivamente funciono, este archivo ya esta listo en el repositorio de 
+github para poder realizar en el pull en la Laptop y continuar trabajando desde
+este punto.
 
 (Esto está en la rama Master).
  
