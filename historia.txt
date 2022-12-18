@@ -1,14 +1,10 @@
 Curso de git y github de platzi
-Sábado 10 de Diciembre 2022
-12:47
+Domingo 18 de Diciembre 2022
+12:05 AM
 
-Hoy estudiamos desde casa,un poco antes de que sea hora de ir hacía el trabajo, ya estamos estudiando
-sobre como es trabajar junto con github para poder enviar nuestros archivos a un repositorio
-remoto y poder editarlo desde cualquie otro de nuestros dispositivos.
+Hoy estamos trabajando desde casa, pero esta vez desde la PC de escritorio.
+Realizé la conección al repositorio remoto mediante HTTPS pero estoy 
+revisando como hacerlo mediante una llave publica SSH.
 
-Comenzamos a trabajar con ramas. (Esto está en la rama Master).
-
-Para cambiar entre una rama y otra, utilizamos el comando checkout y la rama a la que
-nos queremos mover.
-
-Ejemplo: git checkout cabecera.
+Repositorios remotos. (Esto está en la rama Master).
+ 
